@@ -1,5 +1,5 @@
 <?php
-/*
+/* @version 0.1
  * @name picasa
  * @author EGO(r) <23@7000.TEL>
  * 
